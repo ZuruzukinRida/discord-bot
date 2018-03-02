@@ -181,4 +181,4 @@ async def on_message(message):
                 await client.send_message(message.channel, message.author.mention + " Vous faite déja patie d'une division")
 
 print("ok")
-client.run("NDE4OTM5Mjk1NzYwNjQ2MTU1.DXo3Kw.xcDF_P8enN27z6nndn0MlLSlx28")
+client.run(TOKEN)
